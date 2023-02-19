@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm D Otis</h1>
 <h3 align="center">A passionate Backend developer and Researcher</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif">
+<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dotis-flashing&label=Profile%20views&color=0e75b6&style=flat" alt="dotis-flashing" /> </p>
 
 - 🌱 I’m currently learning **Spring Boot Restful API,.NET, Python**
