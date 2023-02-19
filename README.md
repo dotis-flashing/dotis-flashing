@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm D Otis</h1>
+<h1 align="center">Hi👋, I'm D Otis</h1>
 <h3 align="center">A passionate Backend developer and Researcher</h3>
 <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif">
 
