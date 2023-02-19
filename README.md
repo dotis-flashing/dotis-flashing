@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/transport-system](https://github.com/transport-system)
 
-- 📫 How to reach me |xuanduy650@gmail.com|duypdxse161418@fpt.edu.vn|
+- 📫 How to reach me **|xuanduy650@gmail.com|duypdxse161418@fpt.edu.vn|**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
