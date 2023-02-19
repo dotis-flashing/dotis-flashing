@@ -1,4 +1,4 @@
-[![MasterHead](https://drive.google.com/file/d/1VLEG5jgWlZ_4e1T9ntem16xmkbc5GOWI/view?usp=sharing)]([https://dotis-flashing.io](https://github.com/dotis-flashing))
+
 <h1 align="center">Hi 👋, I'm D Otis</h1>
 <h3 align="center">A passionate Backend developer and Researcher</h3>
 <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif">
@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/transport-system](https://github.com/transport-system)
 
-- 💬 FPT University **duypdxse161418@gmail.com**
+- :zap: FPT University **duypdxse161418@gmail.com**
 
 - 📫 How to reach me **xuanduy650@gmail.com**
 
