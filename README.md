@@ -26,3 +26,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dotis-flashing&show_icons=true&locale=en" alt="dotis-flashing" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dotis-flashing&" alt="dotis-flashing" /></p>
+### Connect me via: xuanduy650@gmail.com
+#### Copyright &#169; 2023 dotis-flashing
