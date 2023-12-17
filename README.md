@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dotis-flashing&label=Profile%20views&color=0e75b6&style=flat" alt="dotis-flashing" /> </p>
 
-- 🌱 I’m currently learning **Spring Boot Restful API,.NET, Python**
+- 🌱 I’m currently learning **Spring Boot,.NET, Python**
 
-- 👨‍💻 All of my projects are available at [https://github.com/transport-system](https://github.com/transport-system)
+- 👨‍💻 All of my projects are available at here
 
 - :zap: FPT University **duypdxse161418@gmail.com**
 
