@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at here
 
-- :zap: FPT University **duypdxse161418@gmail.com**
+- :zap: FPT University **duypdxse161418@edu.fpt.vn**
 
 - 📫 How to reach me **xuanduy650@gmail.com**
 
