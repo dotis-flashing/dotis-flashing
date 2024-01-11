@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dotis-flashing&label=Profile%20views&color=0e75b6&style=flat" alt="dotis-flashing" /> </p>
 
-- 🌱 I’m currently learning **Spring Boot,.NET, Python**
+- 🌱 I’m currently learning **Spring Boot,.NET, Python, Angular, ReactJs**
 
 - 👨‍💻 All of my projects are available at here
 
